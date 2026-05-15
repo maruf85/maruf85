@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hey, I'm Maruf 👋
 
-I'm Maruf, Full Stack Web Developer from Bangladesh. 6+ years of experience in Web Design & Development.
+Full-Stack Software Engineer with 9+ years of experience building modern web applications, APIs, and digital products.
+
+I focus on building reliable, production-ready applications with a strong emphasis on performance, maintainability, and user experience.
+
+Currently exploring AI-driven applications and automation, integrating LLM-based features into real-world products and workflows.
 
 ##### Connect with me!
 
